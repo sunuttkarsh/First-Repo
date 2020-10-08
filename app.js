@@ -4,4 +4,8 @@ setTimeout(() => {
   console.log("The async function") 
 } , 5000);
 
+setTimeout(() => {
+  console.log("The async function") 
+} , 0);
+
 console.log('Sync Function2');
