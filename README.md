@@ -15,7 +15,7 @@ Thanks Fest 2020
 5. Add the files you changed `git add file_name` (avoid using `git add .`).<br />
 6. Commit your changes `git commit -m "Message briefly explaining the feature"`.<br />
 7. Keep one commit per feature. If you forgot to add changes, you can edit the previous commit `git commit --amend`.<br />
-8. Push to your repo `git push origin branch-name`.<br />
+8. Push to your repo `git push -u origin branch-name`.<br />
 9. Go into the Github repo and create a pull request explaining your changes.<br />
 10. If you are requested to make changes, edit your commit using `git commit --amend`, push again and the pull request will edit automatically.<br />
 11. If you have more than one commit try squashing them into single commit by following command:<br />
