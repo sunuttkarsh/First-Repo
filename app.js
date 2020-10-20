@@ -9,3 +9,7 @@ setTimeout(() => {
 } , 0);
 
 console.log('Sync Function2');
+
+
+
+console.log("Hi from naman");
