@@ -13,3 +13,5 @@ console.log('Sync Function2');
 
 
 console.log("Hi from naman");
+
+console.log("Hi from mohit");
