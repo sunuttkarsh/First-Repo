@@ -6,3 +6,5 @@ array1.insert(1,60)
 
 for x in array1:
  print(x)
+
+ 
