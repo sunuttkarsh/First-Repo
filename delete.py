@@ -6,3 +6,5 @@ array1.remove(40)
 
 for x in array1:
  print(x)
+ 
+
